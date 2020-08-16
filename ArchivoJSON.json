@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "kevin",
+        "sexo": "masculino",
+        "carrera": "sistemas",
+        "promedio": 73
+
+    },
+    {
+        "nombre": "Maria",
+        "sexo": "femenino",
+        "carrera": "industrial",
+        "promedio": 77
+        
+    },
+    {
+        "nombre": "Fernando",
+        "carrera": "sistemas",
+        "sexo": "masculino",
+        "promedio": 70
+    },
+    {
+        "nombre": "Samuel",
+        "carrera": "civil",
+        "sexo": "masculino",
+        "promedio": 80
+    }
+]
