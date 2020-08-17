@@ -1,27 +1,27 @@
-<?xml version="1.0">
+<?xml version="1.0" ?>
 <cuentas>
-    <usuario id="1">
-        <nombre> Kevin Lopez </nombre>
-        <username> kevin </username>
-        <password> 1234565 </password>
-        <estado> activo </estado>
-    </usuario>
-    <usuario id ="2">
-        <nombre> Fernando Garcia </nombre>
-        <username> fernando </username>
-        <password> 1237236 </password>
-        <estado> activo </estado>
-    </usuario>
-    <usuario id ="3">
-        <nombre> Samuel Perez </nombre>
-        <username> samuel </username>
-        <password> 1964236 </password>
-        <estado> activo </estado>
-    </usuario>
-    <usuario id ="4">
-        <nombre> Carlos Cabrera </nombre>
-        <username> carlos </username>
-        <password> 197436 </password>
-        <estado> activo </estado>
-    </usuario>
+<usuario id="1">
+<nombre>Kevin Lopez</nombre>
+<username>kevin</username>
+<password>1234565</password>
+<estado>activo</estado>
+</usuario>
+<usuario id ="2">
+<nombre>Fernando Garcia</nombre>
+<username>fernando</username>
+<password>1237236</password>
+<estado>activo</estado>
+</usuario>
+<usuario id ="3">
+<nombre>Samuel Perez</nombre>
+<username>samuel</username>
+<password>1964236</password>
+<estado>activo</estado>
+</usuario>
+<usuario id ="4">
+<nombre>Carlos Cabrera</nombre>
+<username>carlos</username>
+<password>197436</password>
+<estado>activo</estado>
+</usuario>
 </cuentas>

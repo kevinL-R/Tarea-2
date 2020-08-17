@@ -1,5 +1,4 @@
-Nombre;Edad;cargo;id
-Kevin;19;soporte;A
-Mario;25;contabilidad;B
-Juan;23;secretario;C
-Carlos;27;gerente;D
+Nombre;Kevin;Edad;19;cargo;soporte;id;A
+Nombre;Mario;Edad;25;cargo;contabilidad;id;B
+Nombre;Juan;Edad;23;cargo;secretario;id;C
+Nombre;Carlos;Edad;27;cargo;gerente;id;D
